@@ -1,9 +1,9 @@
 package testpackage;
 
-public class Demo {
+public class Demo3 {
 
 	public static void main(String[] args) {
-		System.out.println("enjoy with github..123");
+		System.out.println("enjoy with github..");
 
 	}
 
